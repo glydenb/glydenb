@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤟  Bugando sistemas desde 1997<br>📚 Atualmente aprendendo Java<br>🎯 Objetivos: Experimentar e me engajar na área de tecnologia para trabalhar com a internet. Possuo imensa satisfação pessoal em aprender coisas novas e me sentir desafiado.<br>🎲</p>
+<p align="left">🤟  Bugando sistemas desde 1997<br>📚 Atualmente aprendendo Java<br>🎯 Objetivos: Experimentar e me engajar na área de tecnologia para trabalhar com a internet. Possuo imensa satisfação pessoal em aprender coisas novas e me sentir desafiado.<br>🎲 Fun fact: amante de livros, rpg de mesa e jogos.</p>
 
 ###
 
